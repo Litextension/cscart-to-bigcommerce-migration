@@ -1,11 +1,11 @@
-=== osCommerce to WooCommerce Migration Tool ===
+=== Cs-Cart to BigCommerce Migration Tool ===
 Version: 2.4.1
 Developed by: LitExtension
-Download: https://litextension.com/woocommerce-migration-tool/oscommerce-to-woocommerce.html 
+Download: https://litextension.com/bigcommerce-migration/cscart-to-bigcommerce-migration.html
 
 
 == Description ==
-LitExtension osCommerce to WooCommerce Migration plugin allows you to migrate your products, orders, customers, passwords and other data from osCommerce to WooCommerce automatically.
+LitExtension Cs-Cart to BigCommerce Migration plugin allows you to migrate your products, orders, customers, passwords and other data from Cs-Cart to BigCommerce automatically.
 
 = WHAT DATA CAN POSSIBLY BE MIGRATED =
 
