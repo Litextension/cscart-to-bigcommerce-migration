@@ -1,6 +1,11 @@
 # cscart-to-bigcommerce-migration
 
-Description ==
+Version: 2.4.1
+Developed by: LitExtension
+Download: https://litextension.com/bigcommerce-migration/cscart-to-bigcommerce-migration.html
+
+
+== Description ==
 LitExtension Cs-Cart to BigCommerce Migration plugin allows you to migrate your products, orders, customers, passwords and other data from Cs-Cart to BigCommerce automatically.
 
 = WHAT DATA CAN POSSIBLY BE MIGRATED =
